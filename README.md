@@ -2,6 +2,10 @@
 
 This project applies machine learning techniques to model the discharge performance of electrochemical cells based on key design variables.
 
+⚡ Important:
+Due to the size and complexity of the main notebook, it might not render properly on GitHub.
+To easily explore the project, you can open it directly in Google Colab here: (https://colab.research.google.com/drive/19l3Di-25Cavi3ZjqGFYMi8dAUp4KfLUH?usp=sharing)
+
 ## Overview
 
 As part of the CHEN E4580 Artificial Intelligence in Chemical Engineering course, we modeled the relationship between electrochemical cell design parameters and performance metrics such as capacity (mAh/g) and energy (mWh/g). The goal was to predict performance without running physical experiments.
