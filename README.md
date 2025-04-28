@@ -31,7 +31,6 @@ As part of the CHEN E4580 Artificial Intelligence in Chemical Engineering course
 - `notebooks/` – Jupyter notebooks for data analysis and modeling
 - `src/` – Python scripts for loading data, preprocessing, training, and evaluation
 - `data/` – Input datasets (features and targets)
-- `results/` – Model outputs and evaluation results
 - `README.md` – Project documentation
 
 ## How to Run
